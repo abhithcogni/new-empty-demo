@@ -1,3 +1,5 @@
-# THIS IS NEW EMPTY GIT REPO 
-## hey i added something to push 
-## hey this is another change
+# Example for Comaprison of Working Area and Staging Area
+## Remote Push
+## Commited Area
+## Staged Area
+## Non Staged Area
